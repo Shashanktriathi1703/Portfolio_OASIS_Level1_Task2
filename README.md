@@ -7,13 +7,13 @@ Welcome to my portfolio! Here you will find a collection of my projects and skil
 
 ### Project 1: PGlife Website
 I developed a responsive website using HTML, CSS, JAVASCRIPT, and PHP and in Backend I use MYSQL. The website includes multiple pages, a navigation menu, and a contact form.
-It's a responsive Hotel Booking Website that helps the customer easily find out hotel rooms in different-different cities and the customer see all the features of that particular room.
+It's a responsive Hotel Booking Website that helps the customer easily find hotel rooms in different cities and the customer see all the features of that particular room.
 
 ### Project 2: Calculator
-The responsive calculator works properly which do work easily and it contains the addition button, subtraction button, multiplication button, and division button, all clear buttons are also available, and deleting a single string is also available which works properly without giving any error.
+The responsive calculator works properly which works easily and it contains the addition button, subtraction button, multiplication button, and division button, all clear buttons are also available, and deleting a single string is also available which works properly without giving any error.
 
 ### Project 3: Temperature Converter
-It's a responsive temperature converter calculator which converts Celsius into Fahrenheit Celsius also converted into Kelvin and Fahrenheit convert into Celsius as well as kelvin and in the case of kelvin, it also converts into Celsius and as well as Fahrenheit.
+It's a responsive temperature converter calculator that converts Celsius into Fahrenheit Celsius also converted into Kelvin and Fahrenheit converted into Celsius as well as kelvin in the case of kelvin, it also converts into Celsius and as well as Fahrenheit.
 
 ## Skills
 
@@ -58,4 +58,4 @@ link: [http://127.0.0.1:5500/OIBSIP/Portfolio/Portfolio.html]
 
 ## Contact
 
-If you have any questions or would like to work with me, please feel free to contact me at [shashanktripathi1703@gmai.com]. Thank you for visiting my portfolio!
+If you have any questions or would like to work with me, please feel free to contact me at [shashanktripathi1703@gmail.com]. Thank you for visiting my portfolio!
